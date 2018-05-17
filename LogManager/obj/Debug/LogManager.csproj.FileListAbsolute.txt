@@ -1,22 +1,26 @@
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\bin\Debug\LogManager.exe.config
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\bin\Debug\LogManager.exe
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\bin\Debug\LogManager.pdb
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager.csprojResolveAssemblyReference.cache
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogDirectories.g.cs
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\MainWindow.g.cs
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\App.g.cs
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager_MarkupCompile.cache
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager_MarkupCompile.lref
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogDirectories.baml
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\MainWindow.baml
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager.g.resources
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager.Properties.Resources.resources
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager.csproj.GenerateResource.cache
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager.csproj.CoreCompileInputs.cache
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager.exe
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager.pdb
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\bin\Debug\Newtonsoft.Json.dll
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\bin\Debug\Newtonsoft.Json.xml
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager.csproj.CopyComplete
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\bin\Debug\LogManagerConfig.json
-D:\Bibliothèques\Documents\Visual Studio 2017\Projects\LogManager\LogManager\obj\Debug\LogManager_Content.g.cs
+C:\GitHub\LogManager\LogManager\bin\Debug\LogManagerConfig.json
+C:\GitHub\LogManager\LogManager\bin\Debug\7za.exe
+C:\GitHub\LogManager\LogManager\bin\Debug\LogManager.exe.config
+C:\GitHub\LogManager\LogManager\bin\Debug\LogManager.exe
+C:\GitHub\LogManager\LogManager\bin\Debug\LogManager.pdb
+C:\GitHub\LogManager\LogManager\bin\Debug\7z.NET.dll
+C:\GitHub\LogManager\LogManager\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\LogManager\LogManager\bin\Debug\7z.NET.pdb
+C:\GitHub\LogManager\LogManager\bin\Debug\7z.NET.xml
+C:\GitHub\LogManager\LogManager\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\LogManager\LogManager\obj\Debug\LogDirectories.g.cs
+C:\GitHub\LogManager\LogManager\obj\Debug\MainWindow.g.cs
+C:\GitHub\LogManager\LogManager\obj\Debug\App.g.cs
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager_Content.g.cs
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager_MarkupCompile.cache
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager_MarkupCompile.lref
+C:\GitHub\LogManager\LogManager\obj\Debug\LogDirectories.baml
+C:\GitHub\LogManager\LogManager\obj\Debug\MainWindow.baml
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager.g.resources
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager.Properties.Resources.resources
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager.csproj.GenerateResource.cache
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager.csproj.CoreCompileInputs.cache
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager.csproj.CopyComplete
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager.exe
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager.pdb
+C:\GitHub\LogManager\LogManager\obj\Debug\LogManager.csprojResolveAssemblyReference.cache

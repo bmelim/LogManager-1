@@ -1,0 +1,16 @@
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\7za.exe
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\LogManagerConsole.deps.json
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\LogManagerConsole.runtimeconfig.json
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\LogManagerConsole.runtimeconfig.dev.json
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\LogManagerConsole.dll
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\LogManagerConsole.pdb
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\7z.NET.dll
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\7z.NET.pdb
+C:\GitHub\LogManager\LogManagerConsole\bin\Debug\netcoreapp2.0\7z.NET.xml
+C:\GitHub\LogManager\LogManagerConsole\obj\Debug\netcoreapp2.0\LogManagerConsole.csproj.CoreCompileInputs.cache
+C:\GitHub\LogManager\LogManagerConsole\obj\Debug\netcoreapp2.0\LogManagerConsole.AssemblyInfoInputs.cache
+C:\GitHub\LogManager\LogManagerConsole\obj\Debug\netcoreapp2.0\LogManagerConsole.AssemblyInfo.cs
+C:\GitHub\LogManager\LogManagerConsole\obj\Debug\netcoreapp2.0\LogManagerConsole.csproj.CopyComplete
+C:\GitHub\LogManager\LogManagerConsole\obj\Debug\netcoreapp2.0\LogManagerConsole.dll
+C:\GitHub\LogManager\LogManagerConsole\obj\Debug\netcoreapp2.0\LogManagerConsole.pdb
+C:\GitHub\LogManager\LogManagerConsole\obj\Debug\netcoreapp2.0\LogManagerConsole.csprojResolveAssemblyReference.cache

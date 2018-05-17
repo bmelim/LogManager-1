@@ -1,4 +1,8 @@
 ﻿{
   "directories": [],
-  "options": []
+  "timeToLive": 0,
+  "logFile": "logs.log",
+  "isLogging": true,
+  "archivingInterval": 86400,
+  "timeToArchive": 7
 }

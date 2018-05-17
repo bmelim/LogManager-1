@@ -5,11 +5,21 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LogManager"
         mc:Ignorable="d"
-        Title="LogDirectories" Height="450" Width="800">
+        Title="LogDirectories" Height="474.029" Width="369.2" Visibility="Visible" ShowInTaskbar="False">
     <Grid>
-        <Button Name="btnAddNewLogDir" Content="Add new log dir" Click="btnAddNewLogDir_Click" HorizontalAlignment="Left" Margin="662,389,0,0" VerticalAlignment="Top" Width="120"/>
-        <Button Name="btnRefreshLogDirList" Content="Refresh" Click="btnRefreshLogDirList_Click" HorizontalAlignment="Left" Margin="542,389,0,0" VerticalAlignment="Top" Width="75"/>
-        <StackPanel Name="spLogDirs" HorizontalAlignment="Left" Height="253" Margin="10,10,0,0" VerticalAlignment="Top" Width="405"/>
 
+        <ScrollViewer HorizontalAlignment="Left" Height="332" Margin="10,10,0,0" VerticalAlignment="Top" Width="343">
+            <StackPanel Name="spLogDirs" HorizontalAlignment="Left" Height="332" VerticalAlignment="Top" Width="343"/>
+        </ScrollViewer>
+
+        <Button Name="btnAddNewLogDir" Content="Add" Click="btnAddNewLogDir_Click" HorizontalAlignment="Left" Margin="10,389,0,0" VerticalAlignment="Top" Width="111"/>
+        <Button Name="btnRefreshLogDirList" Content="Refresh" Click="btnRefreshLogDirList_Click" HorizontalAlignment="Left" Margin="242,389,0,0" VerticalAlignment="Top" Width="111" RenderTransformOrigin="-1.013,-0.977"/>
+        <Button Name="btnRemoveLogDir" Click="btnRemoveLogDir_Click" Content="Remove" HorizontalAlignment="Left" Margin="126,389,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Visibility="Hidden" Name="lblLoading" Content="Loading, please wait..."  HorizontalAlignment="Left" Margin="10,361,0,0" VerticalAlignment="Top" Width="343" FontWeight="Bold" FontSize="16"/>
+        <Button Click="btnArchive_Click" Name="btnArchive" Content="Archive" HorizontalAlignment="Left" Margin="10,416,0,0" VerticalAlignment="Top" Width="111"/>
+        <Button Click="btnClean_Click" x:Name="btnClean" Content="Clean" HorizontalAlignment="Left" Margin="126,415,0,0" VerticalAlignment="Top" Width="111"/>
+        <!-- <Button Name="btnStartIIS" Click="btnStartIIS_Click" Content="Start IIS" HorizontalAlignment="Left" Margin="10,416,0,0" VerticalAlignment="Top" Width="111"/>
+        <Button Name="btnStopIIS" Click="btnStopIIS_Click" Content="Stop IIS" HorizontalAlignment="Left" Margin="126,416,0,0" VerticalAlignment="Top" Width="111"/>
+-->
     </Grid>
 </Window>

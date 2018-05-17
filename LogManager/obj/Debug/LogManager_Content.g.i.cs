@@ -9,5 +9,6 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("logmanagerconfig.json")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("7za.exe")]
 
 
